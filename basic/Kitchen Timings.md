@@ -1,7 +1,7 @@
 ## 🧮 Problem 14: Kitchen Timings
 
 **Problem Statement:**  
-In Chefland, everyone who earns strictly more than Y rupees per year, has to pay a tax to Chef. Chef has allowed a special scheme where you can invest any amount of money and claim exemption for it. You have earned X (X>Y) rupees this year. Find the minimum amount of money you have to invest so that you don't have to pay taxes this year.
+The working hours of Chef’s kitchen are from X pm to Y pm (1≤X<Y≤12). Find the number of hours Chef works.
 
 🔗 Problem Link: https://www.codechef.com/problems/KITCHENTIME
 
