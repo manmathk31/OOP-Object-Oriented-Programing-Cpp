@@ -5,7 +5,7 @@ Write a program that takes a number N as the input, and prints it to the output.
 
 
 
-🔗 **Problem Link:** (https://www.codechef.com/problems/START01)
+🔗 Problem Link: (https://www.codechef.com/problems/START01)
 ---
 
 ### 🧾 Solution Code
